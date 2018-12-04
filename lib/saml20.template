@@ -1,4 +1,4 @@
-<saml:Assertion xmlns:saml="urn:oasis:names:tc:SAML:2.0:assertion" Version="2.0" ID="" IssueInstant="">
+<Assertion xmlns="urn:oasis:names:tc:SAML:2.0:assertion" Version="2.0" ID="" IssueInstant="">
   <saml:Issuer></saml:Issuer>
   <saml:Subject>
     <saml:NameID Format="urn:oasis:names:tc:SAML:1.1:nameid-format:unspecified" />
@@ -12,4 +12,4 @@
       <saml:AuthnContextClassRef>urn:oasis:names:tc:SAML:2.0:ac:classes:unspecified</saml:AuthnContextClassRef>
     </saml:AuthnContext>
   </saml:AuthnStatement>
-</saml:Assertion>
+</Assertion>
